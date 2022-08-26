@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://github.com/JYueqi/JYueqi.github.io/blob/main/assets/img/avatars/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
