@@ -21,7 +21,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Moonblue                          # the main title
 
 tagline: Dobby is free !   # it will display as the sub-title
 
@@ -34,8 +34,8 @@ url: 'https://JYueqi.github.io'
 github:
   username: JYueqi             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+  #username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
